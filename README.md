@@ -1,5 +1,12 @@
 # TP05-IA
-Aprendizaje automático no supervisado (algoritmos de clustering)
+## Aprendizaje automático no supervisado (algoritmos de clustering)
+
 Usando Python3 y bibliotecas.
-Brandon Ledezma Fernández
-Walter Morales Vásquez
+
+Integrantes:
+ * Brandon Ledezma Fernández
+ * Walter Morales Vásquez
+
+I semestre 2020 - Inteligencia Artificial
+
+Tecnológico de Costa Rica
